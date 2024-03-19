@@ -1,0 +1,14 @@
+.container {
+  width: 500px;
+  height: 600px;
+  padding: 20px;
+  border: 1px solid red;
+}
+
+.monument-img {
+  height: 600px;
+  width: 100%;
+  background-color: aqua;
+  object-fit: none;
+  /* object-position: bottom left; */
+}
